@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../WebApiProject2/MVCProjectAPI/MVCProjectAPI.csproj" />
+  <Project Path="../WebApiProject2/WebApiProject2/WebApiProject2.csproj" />
+  <Project Path="EcommerceWebsite/EcommerceWebsite.csproj" />
+  <Project Path="MVCEcommerceWebsite/MVCEcommerceWebsite.csproj" />
+</Solution>
